@@ -1,0 +1,26 @@
+@media(max-width: 500px){
+    /* Index page Media*/
+    .container_fluid{
+             /* width: 100%;                            */
+    }
+    .user-icon{
+            margin: 0;                            
+    }
+    .main-img{ 
+          /* margin-top: 3%; */
+          /* margin-left: 4%;                               */
+         /* width: 100%;                                */
+    }
+  .content-text {
+               /* margin-left: 3%;                          */
+             /* font-size: 25px; */
+              /* margin-top: 5%; */
+       }  
+  #nav-home{
+margin-left:0;
+}
+  #icon-input{
+  margin: 0;                                
+  }                            
+}
+

@@ -1,0 +1,19 @@
+@media(max-width: 500px){
+           /* HOME PAGE MEDIA */
+/* nav section */
+#anchor-intern{
+ display: flex;
+ flex-direction: row;
+}
+#intern-h5{
+ margin-left: 0px;
+ margin-top: 0px;
+ }
+#nav-main{
+ margin-left: 0px;
+}
+  /* hero section */
+ #web-div-h3{
+ margin-left: 0px;
+}                             
+}
